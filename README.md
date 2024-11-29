@@ -1,8 +1,8 @@
 # 8512-Portfolio
 
-[X] Make all terminal screens 
-[ ] Add correct layout
-[ ] Fix profile picture (ANSCII-art)
-[ ] Add sound for buttons
-[ ] Finish exit screen for logoff + custom ASCII-art for j/OS
+[X] Make all terminal screens /br
+[ ] Add correct layout /br
+[ ] Fix profile picture (ANSCII-art) /br
+[ ] Add sound for buttons /br
+[ ] Finish exit screen for logoff + custom ASCII-art for j/OS /br
 [ ]
